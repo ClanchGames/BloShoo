@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - block
+  - Enemy
+  - Beam
+  - Ball
+  - BallCopy
+  - SuperItem
+  - Block
+  - LastBossAttack
+  - Bar
+  - RightBeam
+  - LeftBeam
+  - ScoreItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ball
+  - Block
+  - Bar
+  - Item
+  - Wall
+  - Beam
+  - HPBar
+  - BackGround
+  - Enemy
+  - EnemyAttack
+  - mostbottom
+  - mosttop
+  - ItemBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: mostwall
+    uniqueID: 4156913231
+    locked: 0
+  - name: topwall
+    uniqueID: 156561763
+    locked: 0
